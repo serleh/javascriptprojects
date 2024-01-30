@@ -1,0 +1,28 @@
+div {
+  width: 50%;
+  margin: 0 auto;
+  background: #ccc;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+#word {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.timer {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.4rem;
+}
+
+#message {
+  background-color: aquamarine;
+  font-size: 2rem;
+}
